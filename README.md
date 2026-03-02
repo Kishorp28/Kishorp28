@@ -122,10 +122,9 @@ Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Network
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kishorp28&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishorp28" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kishorp28&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=Kishorp28&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## ⚡ Interests
