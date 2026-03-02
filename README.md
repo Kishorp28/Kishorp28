@@ -10,7 +10,7 @@
 ⚡ Strong foundation in Data Structures, Backend Engineering, and AI-driven applications  
 🏆 Hackathon Winner & Internship Experience in ML and Software Development  
 
-📫 Reach me: **kishore2k50@gmail.com**
+📫 Reach me: **kishore28k50@gmail.com**
 
 ---
 
