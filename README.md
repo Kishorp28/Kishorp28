@@ -16,9 +16,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn link]
+- 💼 LinkedIn: https://www.linkedin.com/in/kishore-p-dev/
 - 🧑‍💻 GitHub: https://github.com/Kishore-028
-- 🌎 Portfolio: [Add portfolio link]
+- 🌎 Portfolio: https://kishore-dev.netlify.app/
 
 ---
 
