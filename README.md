@@ -122,8 +122,8 @@ Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Network
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kishore-028&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-028" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kishorp28&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishorp28" />
 </p>
 
 ---
