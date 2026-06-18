@@ -10,6 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://kishore-dev.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishore28k50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishorp28)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kishoreupk/)
 
 </div>
 
@@ -18,6 +19,14 @@
 ## About
 
 Final-year Computer Science Engineering student (CGPA 8.54) building production-style full-stack applications and computer-vision/ML systems. Two hackathon wins shipping real, working software under time pressure, plus internship experience spanning backend engineering and applied ML. Comfortable across the stack — from model training to deployed UI.
+
+<div align="center">
+
+| CGPA | Hackathons Won | Internships | Shipped Projects | Certifications |
+|:---:|:---:|:---:|:---:|:---:|
+| 8.54 | 2 | 3 | 4+ | 4 |
+
+</div>
 
 <br>
 
@@ -94,7 +103,7 @@ End-to-end stock market prediction pipeline — data ingestion, modeling, and My
 
 ## Achievements & Certifications
 
-🥇 Best Project — Uyir Hackathon 2025 &nbsp;·&nbsp; 🥇 Best Project — Designathon 2025 &nbsp;·&nbsp; 🎓 Mahatma Gandhi Scholarship (2023, 2024) &nbsp;·&nbsp; 🧠 110+ LeetCode problems solved
+🥇 Best Project — Uyir Hackathon 2025 &nbsp;·&nbsp; 🥇 Best Project — Designathon 2025 &nbsp;·&nbsp; 🎓 Mahatma Gandhi Scholarship (2023, 2024)
 
 - Data Analytics Job Simulation — Deloitte
 - Algorithmic Thinking — Rice University
@@ -103,7 +112,7 @@ End-to-end stock market prediction pipeline — data ingestion, modeling, and My
 
 <br>
 
-## GitHub Stats
+## Analytics
 
 <div align="center">
 
@@ -113,6 +122,10 @@ End-to-end stock market prediction pipeline — data ingestion, modeling, and My
 <img src="https://streak-stats.demolab.com?user=Kishorp28&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishorp28&theme=tokyo-night&hide_border=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kishorp28&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+
+<img src="https://leetcard.jacoblin.cool/kishoreupk?theme=dark&font=baloo2&ext=heatmap" width="100%" />
 
 </div>
 
