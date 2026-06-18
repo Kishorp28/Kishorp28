@@ -1,108 +1,125 @@
-<h1 align="center">Hi 👋, I'm Kishore P</h1>
-<h3 align="center">Final-Year Computer Science Engineer | Full Stack Developer | AI & ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/kishore-p-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>    
-  <a href="https://kishore-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:kishore28k50@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+# Kishore P
 
----
+### Full-Stack Developer · AI/ML Engineer · CS Final-Year Student
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Training+computer+vision+%26+ML+models;Hackathon+winner+%C2%B7+8.54+CGPA;Open+to+SWE+%26+ML+internships" alt="Typing SVG" />
 
-- 🎓 **Academic Profile:** Final-year B.E. Computer Science and Engineering student with a strong **CGPA of 8.54**.
-- 💻 **Core Focus:** Passionate about Software Engineering, Machine Learning architectures, and building highly scalable full-stack systems.
-- ⚡ **Strengths:** Robust foundations in Data Structures & Algorithms, robust backend engineering, and deploying computer vision models.
-- 🏆 **Track Record:** Multiple Hackathon first-place wins and hands-on industry internship experience.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-p-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://kishore-dev.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishore28k50@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishorp28)
 
----
+</div>
 
-## 🛠 Tech Stack
+<br>
 
-### 💻 Languages & Core CS
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-> **Foundations:** Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+## About
 
-### 🌐 Web & Mobile Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+Final-year Computer Science Engineering student (CGPA 8.54) building production-style full-stack applications and computer-vision/ML systems. Two hackathon wins shipping real, working software under time pressure, plus internship experience spanning backend engineering and applied ML. Comfortable across the stack — from model training to deployed UI.
 
-### 🧠 AI, Machine Learning & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=white)
-> **Frameworks:** YOLOv8 (Object Detection) • Computer Vision Pipelines
+<br>
 
-### 🗄 Databases & Tools
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=Firebase&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+## Tech Stack
 
----
+**Languages**
 
-## 🔥 Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### 🚦 AI-Based Real-Time Accident Detection System
-* **Concept:** End-to-end computer vision safety system designed for prompt emergency dispatch.
-* **Tech Stack:** YOLOv8, Flutter, Firebase, OpenCV.
-* **Key Achievements:** Engineered real-time video stream processing yielding high accuracy metrics across varied lighting and weather conditions. Set up real-time edge triggers pushing instantly to mobile clients via Firebase.
-* 🏆 **Winner:** Best Project Award — *Uyir Hackathon*
-* 🔗 [GitHub Repository](https://github.com/Kishore-028/Kapaan)
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br>
+
+## Featured Projects
+
+### 🚦 Kapaan — AI Real-Time Accident Detection
+YOLOv8-based computer vision system that detects road accidents in real time and pushes mobile alerts via a Flutter + Firebase pipeline. **🏆 Best Project — Uyir Hackathon 2025.**
+[`Repo →`](https://github.com/Kishorp28/Kapaan)
 
 ### 🚆 AI-Driven Train Induction & Fleet Optimization
-* **Concept:** Data-driven analytics application maximizing transit network efficiency.
-* **Tech Stack:** Python, Scikit-learn, Pandas, Frontend Dashboard.
-* **Key Achievements:** Built ML demand forecasting models allowing scheduling adjustments that directly reduce idle fleet usage. Packaged complex predictive analytics into an intuitive manager dashboard.
-* 🌐 [Live Demo](https://kmrl-fleet-optimization.netlify.app)
+ML demand-forecasting system that cuts idle fleet usage through data-driven scheduling, with a decision-support dashboard for operators.
+[`Live demo →`](https://kmrl-fleet-optimization.netlify.app)
 
 ### 🍔 KoreConnect — Food Order Management Platform
-* **Concept:** High-throughput full-stack platform managing live vendor-to-customer operations.
-* **Tech Stack:** MongoDB, Express.js, React, Node.js (MERN).
-* **Key Achievements:** Created full role-based access control (RBAC) dashboards. Integrated background analytics reporting for localized order insights and real-time state sync.
-* 🏆 **Winner:** Best Project Award — *Designathon*
-* 🌐 [Live Demo](https://koreconnect.netlify.app)
+Full-stack MERN platform with role-based dashboards, authentication, and order analytics. **🏆 Best Project — Designathon 2025.**
+[`Live demo →`](https://koreconnect.netlify.app)
 
 ### 📈 Financial Analysis & Prediction Platform
-* **Concept:** Comprehensive pipeline tracking and modeling fast-moving equity market data.
-* **Tech Stack:** Python, MySQL, Predictive Modeling, Data Pipelines.
-* **Key Achievements:** Structured rigorous ETL pipelines cleaning historical financial records into indexed MySQL storages for ML backtesting algorithms.
-* 🔗 [GitHub Repository](https://github.com/Kishorp28/ml-finance-analyser)
+End-to-end stock market prediction pipeline — data ingestion, modeling, and MySQL-backed storage.
+[`Repo →`](https://github.com/Kishorp28/ml-finance-analyser)
 
----
+<br>
 
-## 💼 Industry Experience
+## Experience
 
-**Software Engineering Intern** | *Bluestock Fintech*
-- Accelerated backend systems efficiency through codebase debugging and API response optimizations.
-- Collaborated across technical tasks to deploy and scale reliable server-side features.
+| Role | Focus |
+|---|---|
+| **ML & Data Science Intern**, Cognifyz | Data preprocessing, model evaluation, applied Python solutions |
+| **Software Engineering Intern**, Bluestock Fintech | Backend development, debugging, performance optimization |
+| **AI/ML Virtual Internship**, Google | Structured applied ML training program |
 
-**Machine Learning & Data Science Intern** | *Cognifyz*
-- Developed end-to-end Python-based analytical models covering deep data preprocessing, feature engineering, and statistical evaluations.
+<br>
 
-**Google AI-ML Virtual Internship** | *EduSkills / Google*
-- Completed intensive, structured tracks covering production-ready AI/ML architecture implementation and cloud workflows.
+## Achievements & Certifications
 
----
+🥇 Best Project — Uyir Hackathon 2025 &nbsp;·&nbsp; 🥇 Best Project — Designathon 2025 &nbsp;·&nbsp; 🎓 Mahatma Gandhi Scholarship (2023, 2024) &nbsp;·&nbsp; 🧠 110+ LeetCode problems solved
 
-## 🏆 Achievements & Certifications
+- Data Analytics Job Simulation — Deloitte
+- Algorithmic Thinking — Rice University
+- Google Duet AI in Sheets
+- Python Developer — SoloLearn
 
-### Honors
-- 🥇 **First Place** — Uyir Hackathon (AI Accident Detection System)
-- 🥇 **First Place** — Designathon (KoreConnect Platform)
-- 🎓 **Mahatma Gandhi Merit Scholarship** (Awarded consecutively for academic excellence)
-- 🧠 **Algorithmic Consistency:** 110+ LeetCode problems solved and counting.
+<br>
 
-### Credentials
-- **Deloitte** — Data Analytics Job Simulation
-- **Rice University** — Algorithmic Thinking
-- **Google** — Duet AI in Sheets Professional Workflows
-- **SoloLearn** — Certified Python Developer
+## GitHub Stats
 
----
+<div align="center">
 
-## 📊 GitHub Analytics
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kishorp28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorp28&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kishore-028&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="175em" src="https://streak-stats.demolab.com?user=Kishore-028&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Kishorp28&theme=tokyonight&hide_border=true" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishorp28&theme=tokyo-night&hide_border=true" width="100%" />
 
-<p align="center">🤝 <b>Always open to technical collaborations, open-source initiatives, and engineering opportunities!</b></p>
+</div>
+
+<br>
+
+<div align="center">
+
+**Open to Software Engineering and ML internship opportunities — let's connect.**
+
+</div>
